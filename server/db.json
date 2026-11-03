@@ -1,0 +1,61 @@
+{
+	"productList": [
+		{
+			"id": 1,
+			"title": "Hero GoPro 10",
+			"img": "/images/prod1.png",
+			"commentRate": "★★★★",
+			"price": 54500
+		},
+		{
+			"id": 2,
+			"title": "Canon 1500D",
+			"img": "/images/prod2.png",
+			"commentRate": "★★★★★",
+			"price": 31000
+		},
+		{
+			"id": 3,
+			"title": "Nikon Z 50",
+			"img": "/images/prod3.png",
+			"commentRate": "★★★★",
+			"price": 84007
+		},
+		{
+			"id": 4,
+			"title": "Sony RX100",
+			"img": "/images/prod4.png",
+			"commentRate": "★★★★★",
+			"price": 53570
+		},
+		{
+			"id": 5,
+			"title": "Sony Lens",
+			"img": "/images/prod5.png",
+			"commentRate": "★★★★",
+			"price": 147990
+		},
+		{
+			"id": 6,
+			"title": "Hero GoPro 9",
+			"img": "/images/prod6.png",
+			"commentRate": "★★★★★",
+			"price": 54500
+		},
+		{
+			"id": 7,
+			"title": "Canon Flash",
+			"img": "/images/prod7.png",
+			"commentRate": "★★★★",
+			"price": 24990
+		},
+		{
+			"id": 8,
+			"title": "Canon EOS",
+			"img": "/images/prod8.png",
+			"commentRate": "★★★★",
+			"price": 54500
+		}
+	],
+	"profile": { "name": "typicode" }
+}

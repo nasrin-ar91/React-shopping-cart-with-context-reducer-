@@ -1,0 +1,50 @@
+@import "tailwindcss";
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap'); */
+
+
+@theme {
+  --color-bg-light: #191c26;
+  --color-bg-cart: #111319;
+  --color-text: #a9afc3;
+  --color-text-light: #6c757d;
+  --color-body: #13131f;
+}
+
+/* .scrollbar-none {
+  scrollbar-width: none;
+}
+
+.scrollbar-none::-webkit-scrollbar {
+  display: none;
+} */
+
+html,
+body,
+#root {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+#root::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  line-height: 1.1;
+  padding: 0px;
+  margin: 0px;
+  /* font-family: "Avenir Next",
+    Avenir,
+    "Segoe UI",
+    system-ui,
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    "Helvetica Neue",
+    Helvetica,
+    Arial,
+    sans-serif; */
+}
